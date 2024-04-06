@@ -118,8 +118,8 @@ h6,
 .navbar .navbar-brand {
     position: relative;
     padding-right: 0px;
-    height: 85px;
-    display: flex;
+    height: 80px;
+    display: inline-flex;
     align-items: center;
     
 }
