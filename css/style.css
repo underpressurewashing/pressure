@@ -4,7 +4,7 @@
     --secondary: #BDB2AE;
 	
     --light: #FFFFFF;
-    --dark: #101010;
+    --dark: #9F8C76;
 }
 
 .back-to-top {
@@ -128,7 +128,7 @@ h6,
 .navbar .navbar-nav .nav-link {
     margin-right: 35px;
     padding: 20px 0;
-    color: var(--dark);
+    color: var(--primary);
     font-size: 18px;
     font-weight: 500;
     outline: none;
@@ -347,7 +347,7 @@ h6,
     font-size: 30px;
     font-weight: normal;
     color: #FFFFFF;
-    background: #000000;
+    background: #9F8C76;
     opacity: 1;
 }
 
